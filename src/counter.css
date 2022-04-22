@@ -1,0 +1,14 @@
+*{
+    background-color: aliceblue;
+}
+
+.styling{
+    margin: auto;
+    flex-direction: column;
+    width: 14vh;
+    border: 3px solid black;
+}
+button{
+    width: 100%;
+    display: grid;
+}
