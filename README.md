@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## 使用Redux及其toolKit製作一個簡單的計數器
+
 ## Available Scripts
 
 In the project directory, you can run:
